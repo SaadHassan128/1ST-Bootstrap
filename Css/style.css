@@ -1,25 +1,26 @@
 body {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .navbar-nav .nav-link {
-    transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 .navbar-nav .nav-link:hover {
-    color: #ffcc00 !important;
+  color: #ffcc00 !important;
 }
 
 .btn:hover {
-    background-color: #ff6b6b !important;
-    color: white !important;
+  background-color: #ff6b6b !important;
+  color: white !important;
 }
 
 .card:hover {
-    transform: scale(1.05);
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 20px;
+  transform: scale(1.05);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 20px;
 }
 
-form input, form textarea {
-    border-radius: 8px;
-    border: 1px solid #ccc;
+form input,
+form textarea {
+  border-radius: 8px;
+  border: 1px solid #ccc;
 }
